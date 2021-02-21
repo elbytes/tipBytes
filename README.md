@@ -5,4 +5,4 @@ The app receives the bill amount and tip percentage and displays the tip amount 
 
 
 
-![alt text](https://raw.githubusercontent.com/elbytes/images/main/Screen%20Shot%202021-02-20%20at%2010.19.34%20PM.png)
+![alt text](https://raw.githubusercontent.com/elbytes/images/main/Screen%20Shot%202021-02-20%20at%2010.19.34%20PM.png?token=AN6OSURUUZOV6KJ3UPIAR7LAHMGCI)
